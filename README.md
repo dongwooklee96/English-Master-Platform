@@ -6,4 +6,5 @@
 |I get a feeling that + S + V | ~ 라는 기분 / 느낌이 들다 | `I get a feeling that I should have been home yesterday` |
 |Let's say + S + V| 만약 S + V 한다면 | `Let's say we buy 10 new computer` |
 | There is no reason ~| ~ 할 이유가 없다. | `There is no reason to do that under nomal circumstances` |
-
+| What do you say to ~| ~에 대해서 너의 생각은 어때? | `What would you say to the idea of taking a business course at school that the company would pay for?` |
+| |  | `` |
